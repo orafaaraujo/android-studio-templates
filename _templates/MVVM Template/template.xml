@@ -1,0 +1,27 @@
+<template 
+        format="4"
+        revision="1"
+        name="MVVM Template Activity"
+        description="Creates a MVVM classes - Activity, ViewModel and layout">
+ 
+    <category value="Other"/>
+ 
+    <parameter id="className"
+        name="Class Name"
+        type="string"
+        constraints="class|unique|nonempty"
+        default="MainActivity"
+        help="The name of the activity and view model"/>
+
+    <parameter
+        id="layoutName"
+        name="Layout Name"
+        type="string"
+        constraints="layout|unique|nonempty"
+        default="activity_main"
+        help="The name of the layout to create for the activity" />
+ 
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+ 
+</template>
