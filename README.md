@@ -20,6 +20,13 @@ Templates to create files (or group of them) with a few clicks. :tada:
 - Copy the downloaded folder inside it
 - Restart your Android Studio by *File -> Invalidate Caches/Restart...*   (**Invalidade cache is not required**)
 
+<p >
+<img src="_images/Screen%20Shot%202018-08-22%20at%2000.22.29.png" width="320" >
+<img src="_images/Screen%20Shot%202018-08-22%20at%2000.24.14.png" width="350" >
+<img src="_images/Screen%20Shot%202018-08-22%20at%2000.24.42.png" width="350" >
+<img src="_images/Screen%20Shot%202018-08-22%20at%2000.24.34.png" width="350" >
+</p>
+
 ---
 
 ### Next steps! :rocket:
